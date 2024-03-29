@@ -236,3 +236,67 @@ button{
     display: flex;
     gap: 80px;
 }
+
+@media only screen and (max-width: 375px) and (max-width:680px){
+   #nav-bar2{
+      display: block;
+    
+   }
+
+   #content1{
+    margin-left: 650px;
+   }
+
+   .googleA{
+    width: 100px;
+   }
+
+   .googleB{
+    width: 100px;
+    height: 60px;
+   }
+
+   .googleC{
+    width: 100px;
+    height: 60px;
+   }
+
+   body{
+    font-size: small;
+   }
+
+   .img1{
+    width: 200px;
+   }
+
+   .img2{
+    width: 200px;
+    height: 350px;
+    padding-top: 120px;
+
+   }
+
+   .img3{
+    width: 200px;
+   }
+
+   .img4{
+    width: 200px;
+
+   }
+
+   button{
+    border-radius: 100px;
+   }
+
+   .img5{
+    width: 200px;
+    height: 200px;
+   }
+
+   .img6{
+   width: 200px;
+   height: 550px;
+   }
+
+}
